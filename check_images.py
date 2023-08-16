@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # */AIPND-revision/intropyproject-classify-pet-images/check_images.py
 #
-# TODO 0: Add your information below for Programmer & Date Created.                                                                             
+                                                                           
 # PROGRAMMER: Sejal Saxena
 # DATE CREATED: 7/7/23                               
 # REVISED DATE: 12/7/23
