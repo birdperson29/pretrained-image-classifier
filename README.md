@@ -1,4 +1,4 @@
-#Pet Image Classifier 
+# Pet Image Classifier 
 This project is designed to classify images of pets using a pre-trained Convolutional Neural Network (CNN) model. It compares the model's classifications to the true identity of the pets in the images, and provides a summary of the model's performance on the image classification task.
 
 ### The primary objective of this project is to classify pet images by extracting the pet labels from the image filenames and comparing the model's predictions to the true labels. We aim to determine which of the three different CNN model architectures provides the best classification performance. 
